@@ -7,14 +7,10 @@
 </p>
 
 ## Github Stats  
-<table>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=PAVincius&theme=react&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
-<div>
-  teste
-  </div>
-</table>
+
 ## Steak Stats 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PAVincius&theme=react&hide_border=true)](https://git.io/streak-stats)
 
