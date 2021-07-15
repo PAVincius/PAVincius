@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=One+Day&size=24&center=true&vCenter=true&width=600&height=60&lines=Front-end+Web+and+App+Developer;Self-taught+Machine+Learning+Engineer;Passionate+about+Natural+Language+Processing;%23alwayscoding)](https://git.io/typing-svg)
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20and%20App%20Developer;Self-taught%20Machine%20Learning%20Engineer;Passionate%20about%20Natural%20Language%20Processing&center=true&width=380&height=45"></a>
 </p>
 Here are some ideas to get you started:
 
