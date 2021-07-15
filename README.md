@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div ><img src="https://github-readme-stats.vercel.app/api?username=PAVincius&theme=react&show_icons=true&count_private=true&hide_border=true" align="center" /></div
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=PAVincius&theme=react&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
 
 ## Steak Stats 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PAVincius&theme=react&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PAVincius&theme=react&hide_border=true)](https://git.io/streak-stats)
