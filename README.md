@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=600&height=60&lines=What's+up+guys!+Welcome+to+my+repo%2C+hope+you+enjoy+it!)](https://git.io/typing-svg)
-**PAVincius/PAVincius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=One+Day&size=24&center=true&vCenter=true&width=600&height=60&lines=Front-end+Web+and+App+Developer;Self-taught+Machine+Learning+Engineer;Passionate+about+Natural+Language+Processing;%23alwayscoding)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
