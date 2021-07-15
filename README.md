@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PAVincius&theme=dracula)](https://git.io/streak-stats)
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PAVincius&show_icons=true&count_private=true&hide_border=true" align="center" /></div
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=PAVincius&show_icons=true&count_private=true&hide_border=true" align="center" /></div
