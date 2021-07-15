@@ -2,9 +2,9 @@
   Welcome to Vinicius Araújo's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=One+Day&size=24&center=true&vCenter=true&width=600&height=60&lines=Front-end+Web+and+App+Developer;Self-taught+Machine+Learning+Engineer;Passionate+about+Natural+Language+Processing;%23alwayscoding)](https://git.io/typing-svg)
-
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
