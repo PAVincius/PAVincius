@@ -1,4 +1,6 @@
+<div align="center">
 ### Welcome to PAVincius profile 👋
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=One+Day&size=24&center=true&vCenter=true&width=600&height=60&lines=Front-end+Web+and+App+Developer;Self-taught+Machine+Learning+Engineer;Passionate+about+Natural+Language+Processing;%23alwayscoding)](https://git.io/typing-svg)
 
