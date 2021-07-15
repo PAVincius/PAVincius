@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=PAVincius&theme=react&show_icons=true&count_private=true&hide_border=true" align="center" />
-<p align="center">
+<div ><img src="https://github-readme-stats.vercel.app/api?username=PAVincius&theme=react&show_icons=true&count_private=true&hide_border=true" align="center" />
+<p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
   </a>
