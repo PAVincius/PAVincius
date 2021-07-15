@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PAVincius&theme=dracula)](https://git.io/streak-stats)
 
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=PAVincius&show_icons=true&count_private=true&hide_border=true" align="center" /></div
+  </table>
